@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<library>
+  <book isbn="0048231398">
+    <title>The Silmarillion</title>
+    <author>J.R.R. Tolkien</author>
+    <publisher>G. Allen &amp; Unwin</publisher>
+  </book>
+  <book isbn="0451524934">
+    <title>1984</title>
+    <author>G. Orwell</author>
+    <publisher>Signet</publisher>
+  </book>
+  <book isbn="031219126X">
+    <title>Frankenstein</title>
+    <author>M. Shelley</author>
+    <publisher>Bedford</publisher>
+  </book>
+  <book isbn="0312863551">
+  <title>The Moon Is a Harsh Mistress</title>
+  <author>R. A. Heinlein</author>
+  <publisher>Orb</publisher>
+  </book>
+<book isbn="123456"><title>Lullaby</title><author>C. Palaniuk</author><publisher>Altbook</publisher></book></library>
